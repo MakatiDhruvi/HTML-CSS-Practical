@@ -1,0 +1,114 @@
+body {
+    background: #F1F3F6;
+}
+
+header {
+    background-color: #2874F0;
+    padding: 9px;
+}
+
+    header div.col span {
+        color: #FFF;
+    }
+
+    header button.btn {
+        width: 100%;
+        color: #2874F0;
+        font-weight: 500;
+    }
+
+    header input.form-control {
+        border-right: 0;
+    }
+
+    header .col {
+        display: table;
+        text-align: center;
+    }
+
+        header .col span {
+            display: table-cell;
+            vertical-align: middle;
+            font-weight: 500;
+        }
+
+            header .col span i {
+                margin: 0px 5px;
+            }
+
+.input-group-text {
+    background: #FFF;
+    border-radius: 1px;
+}
+
+.img-fluid.d-block {
+    height: 50px;
+}
+
+#sub-header {
+    background: #FFF;
+    padding: 15px 0px;
+}
+
+    #sub-header .center img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    #sub-header .center span {
+        text-align: center;
+        display:block;
+    }
+    #sub-header .center span i{
+        margin-left:5px;
+    }
+
+span.title {
+    font-size: 13px;
+    font-weight: 700;
+}
+.deals.card .card-header{
+    background:#FFF;
+}
+.f-right{
+    float:right;
+}
+.card-title{
+    font-size:23px;
+    font-weight:500;
+}
+.time{
+    font-size:15px;
+    color:#808080;
+    font-weight:400;
+    margin-left:15px;
+}
+.btn {
+    border-radius: 1px;
+}
+.card{
+    border:1px solid #FFF;
+}
+.deals .card-body .col img{
+    display:block;
+    margin: 0 auto;
+    height:185px;
+}
+.deals .details *{
+    display:block;
+    text-align:center;
+}
+.p-name{
+    font-size:15px;
+    font-weight:500;
+}
+.p-discount {
+    color: #3E8E41;
+}
+.p-sub-title{
+   color:#808080;
+}
+.img-fluid {
+    width: auto;
+    height: 100%;
+}
