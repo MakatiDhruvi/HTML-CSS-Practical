@@ -117,3 +117,9 @@ span.title {
 #sub-header > .container {
     max-width: 980px;
 }
+.details > span {
+    margin-top: 5px;
+}
+.btn.f-right {
+    font-size: 11px;
+}
