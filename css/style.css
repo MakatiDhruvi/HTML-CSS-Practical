@@ -99,16 +99,21 @@ span.title {
     text-align:center;
 }
 .p-name{
-    font-size:15px;
+    font-size:10px;
     font-weight:500;
 }
 .p-discount {
+    font-size: 10px;
     color: #3E8E41;
 }
 .p-sub-title{
+    font-size: 10px;
    color:#808080;
 }
 .img-fluid {
     width: auto;
-    height: 100%;
+    height: 90%;
+}
+#sub-header > .container {
+    max-width: 980px;
 }
